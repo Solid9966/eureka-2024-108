@@ -1,4 +1,5 @@
-# 8조 보고서
+# 1분반 8조 보고서 
+## - GitHubLink : https://github.com/kookmin-sw-eureka/eureka-2024-108
 
 ## 구성원
 ### 소프트웨어학부 20133214 팀장 김태현<br>
