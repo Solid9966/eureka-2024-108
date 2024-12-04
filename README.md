@@ -1,38 +1,12 @@
-# Welcome to GitHub
+# 8조 보고서
 
-유레카 프로젝트 팀 생성을 축하합니다.  
+## 구성원
+### 소프트웨어학부 20133214 팀장 김태현<br>
+### 소프트웨어학부 20203047 김재현 <br>
+### 소프트웨어학부 20190334 이기서 <br>
+### 소프트웨어학부 20222169 윤진호 <br>
+### 소프트웨어학부 20215207 박성원 <br>
 
-가나다라마바사
-
-**팀페이지 주소** -> https://kookmin-sw-eureka.github.io/ '{{분반 및 자신의 팀 번호}}'
-
-**예시)** 2024년 1분반 1조  https://kookmin-sw-eureka.github.io/eureka-2024-101  
-
-
-## Markdown을 사용하여 내용꾸미기
-
-Markdown은 작문을 스타일링하기위한 가볍고 사용하기 쉬운 구문입니다. 여기에는 다음을위한 규칙이 포함됩니다.
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-자세한 내용은 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Support or Contact
-
-readme 파일 생성에 추가적인 도움이 필요하면 [도움말](https://help.github.com/articles/about-readmes/) 이나 [contact support](https://github.com/contact) 을 이용하세요.
+## 활동
+### 정통처 탐방 - 10/31
+### 멘토링 시스템 - 11/21
