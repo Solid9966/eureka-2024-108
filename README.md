@@ -1,38 +1,40 @@
-# Welcome to GitHub
+# 8조 보고서
+## 2024 1분반 8조 깃허브 - https://github.com/kookmin-sw-eureka/eureka-2024-108
+## 슬로건
+### 비빔밥 - 다양한 사람들이 모이는 장소
 
-유레카 프로젝트 팀 생성을 축하합니다.  
+## 구성원
+### 소프트웨어학부 20133214 팀장 김태현<br>
+### 소프트웨어학부 20203047 김재현 <br>
+### 소프트웨어학부 20190334 이기서 <br>
+### 소프트웨어학부 20222169 윤진호 <br>
+### 소프트웨어학부 20215207 박성원 <br>
+![image](https://github.com/user-attachments/assets/0645fece-c419-42e8-a6a6-0ef2a55d374b)
 
-가나다라마바사
 
-**팀페이지 주소** -> https://kookmin-sw-eureka.github.io/ '{{분반 및 자신의 팀 번호}}'
+## 활동
+### 정통처 탐방 - 10.31
+![image](https://github.com/user-attachments/assets/02813d86-4571-433f-8209-d6c48157bf09)
 
-**예시)** 2024년 1분반 1조  https://kookmin-sw-eureka.github.io/eureka-2024-101  
+### 멘토링 시스템 - 11.21
+![image](https://github.com/user-attachments/assets/d387baac-0e5b-40ba-ae5e-90a07bb918ca)
 
 
-## Markdown을 사용하여 내용꾸미기
+## 보고서
+[보고서](https://github.com/Solid9966/eureka-2024-108/blob/main/doc/8%EC%A1%B0_%EC%9C%A0%EB%A0%88%EC%B9%B4%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8C%80%ED%99%9C%EB%8F%99%EB%B3%B4%EA%B3%A0%20.pdf)
 
-Markdown은 작문을 스타일링하기위한 가볍고 사용하기 쉬운 구문입니다. 여기에는 다음을위한 규칙이 포함됩니다.
+## 팀원 각자 소감 
+### 김태현
+- 유레카프로젝트에서 색다른 것들을 경험할수있었으며 생각외로 많은 기회들이 있다는 것들을 알게되었습니다. 앞으로의 학교 직후뿐만이 아니라 앞으로 살아가는데에 대한 교훈을 얻었으며 다시한번 자신에 대한 고찰을 가지는 시간또한 되었습니다. 
+### 김재현
+- 강의를 수강하면서 학교에서 비교과 프로그램이나 dlpc 같이 지원해주는 것들을 많이 알아볼 수 있어서 좋았습니다. 특히 멘토링 상담이나 교수님 상담을 통해서 최근에 들기 시작한 진로에 대한 고민들을 어느 정도 방향을 잡아갈 수 있었습니다. 이를 바탕으로 진로에 대한 계획을 자세하게 세워본 뒤 학교에서 지원받을 수 있는 프로그램 등에 참여하여볼 생각입니다. 
+### 이기서
+- 다양한 활동과 지원 프로그램을 체험하며 학교에서 제공하는 기회를 알게 되었습니다. 특히 교수님 면담과 멘토링시스템을 통해 4학년으로서 앞으로의 진로를 구체적으로 고민하는 계기가 되었습니다. 이번 경험을 바탕으로 남은 학교 생활은 물론, 미래의 도전에 더 적극적으로 임하겠습니다.
+### 윤진호
+- 사실 소융대에서 직접적이거나 다른 사업단처럼 많은 지원을 해주지 않아서 
+과제를 하면서도 큰 기대를 하지 않았었으나 이번에 멘토링을 하면서 굉장히 만족스러웠으며, 제가 모르던 것을 알아갔습니다. 
+또한 내장 GPU노트북을 사용해서 GPU를 사용하는 다른 것을 할 수가 없었는데, 이번 기회로 dlpc 사용법을 알아가서 너무 좋았습니다.
+### 박성원
+- 유레카 프로젝트를 진행하면서 그동안 경험하지 못했던 새로운 지식과 관점을 접하게 되어 놀랐습니다. 고학년임에도 불구하고 전혀 알지 못했던 부분들이 있었다는 사실에 놀랐고, 만약 조금 더 저학년 때 이러한 내용을 알게 되었더라면 얼마나 좋았을까 하는 아쉬움이 남았습니다.
+이번 경험을 통해 얻은 깨달음은 남은 학교 생활 뿐만 아니라 미래의 진로에 대해서도 깊은 생각을 가지게 만들었습니다. 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-자세한 내용은 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Support or Contact
-
-readme 파일 생성에 추가적인 도움이 필요하면 [도움말](https://help.github.com/articles/about-readmes/) 이나 [contact support](https://github.com/contact) 을 이용하세요.
